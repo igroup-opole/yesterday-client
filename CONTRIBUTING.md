@@ -149,10 +149,6 @@ $ npm run build
 # run the full unit tests suite
 $ npm run test
 
-# run integration tests
-# docker is required(!)
-$ sh scripts/run-integration.sh // IN PROGRESS
-
 # run linter
 $ npm run lint
 ```
